@@ -1,6 +1,6 @@
 # BestFileSearch
 
-## Python Text searcher and Hightlighter
+## Python Text searcher and Hightlighter using Tkinter
  - Get the input (word) from the User.
  - Explore the specific documents (.pdf, .pptx, .docx, .txt) on all hard drives.
  - If there is a file containing the input for the user, it is saved in the list.
